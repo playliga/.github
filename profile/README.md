@@ -15,8 +15,8 @@ The world's first Esports simulator for Counter-Strike where you can play your m
 ## Useful links
 
 - **Website**: https://playliga.gg
-- **Download**:  https://playliga.gg/#/#download
+- **Download**: https://playliga.gg/#/#download
 - **Discord Invite**: https://discord.gg/ZaEwHfDD5N
-- **Release Notes**: https://playliga.gg/#/#changelog
+- **Release Notes**: https://playliga.gg/#changelog
 - **Blog**: https://playliga.gg/#/blog
 - **itch.io**: https://lemonpole.itch.io/liga

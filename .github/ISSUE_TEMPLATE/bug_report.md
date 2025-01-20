@@ -4,6 +4,7 @@ about: Create a report to help us improve
 title: ""
 type: bug
 assignees: lemonpole
+projects: playliga/2
 ---
 
 ## Describe the bug

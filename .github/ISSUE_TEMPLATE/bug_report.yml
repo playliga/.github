@@ -1,6 +1,6 @@
 name: Bug report
 title: "[BUG] "
-about: Create a report to help us improve
+description: Create a report to help us improve
 type: bug
 assignees:
   - lemonpole

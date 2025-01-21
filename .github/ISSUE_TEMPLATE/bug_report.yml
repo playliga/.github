@@ -1,0 +1,25 @@
+name: Bug report
+about: Create a report to help us improve
+title: ""
+type: bug
+assignees:
+  - lemonpole
+projects:
+  - playliga/2
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Application Version
+      description: This information can be found in the `Help > About` menu.
+      placeholder: v3.0.0-beta.xy
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: A clear and concise description of what the bug is.
+      placeholder: Please enter details.
+    validations:
+      required: true

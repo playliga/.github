@@ -2,7 +2,7 @@
 
 The world's first Esports simulator for Counter-Strike where you can play your matches in-game or simulate them, you choose!
 
-## Features
+# Features
 
 - All major versions of Counter-Strike are supported.
 - The app launches Counter-Strike and connects you to a local server.
